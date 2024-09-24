@@ -10,17 +10,21 @@ Welcome to my GitHub profile! Here's a bit about me and my interests:
   - **Testing Frameworks**: JUnit
   - **Web Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS
   - **Cloud Computing**: AWS
+  - **Manual Testing**: Test case design, execution, defect management
+  - **Automation Testing**: Selenium, Cucumber
 
 - 🌱 I’m currently learning:
   - Advanced concepts in **Spring Boot** and **Spring Security**
   - **Kafka** for real-time data streaming
   - **React.js** and **Tailwind CSS** for modern front-end development
-
+  - **Azure Pipeline** for CI/CD automation
+    
 - 💞️ I’m looking to collaborate on:
   - Projects involving **Spring Boot** for building robust APIs
   - **React.js** applications integrated with **Spring Boot** backends
   - **Kafka**-based data streaming solutions
   - Open-source contributions and **API** development
+  - **Automation testing** using **Selenium** and **Cucumber**
 
 - 📫 How to reach me:
   - Email: sakthiram2677@gmail.com
@@ -38,6 +42,8 @@ Welcome to my GitHub profile! Here's a bit about me and my interests:
 - **Testing Frameworks**: JUnit
 - **Web Development**: HTML, CSS, JavaScript
 - **Front-End Libraries**: React.js, Tailwind CSS
+- **Automation Testing**: Selenium, Cucumber
+- **CI/CD**: Azure Pipeline
 - **Cloud Computing**: AWS
 Feel free to explore my repositories and reach out if you want to collaborate or discuss any of these topics!
 
